@@ -22,7 +22,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/iep-goal-tracking-test-plan.git
+git clone https://github.com/Sagar-code-CS/Testing/edit/main/README.md
 Open the test plan documentation, located in the /docs folder.
 
 Test Cases
